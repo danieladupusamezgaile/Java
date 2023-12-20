@@ -1,1 +1,1 @@
-# Java-Kursa-Darbs
+# Java
